@@ -1,6 +1,8 @@
-# vue-loader example (deprecated)
+# DEPRECATED, DO NOT USE
 
 Deprecated in favor of [vue-cli](https://github.com/vuejs/vue-cli) and [webpack vue-cli template](https://github.com/vuejs-templates/webpack).
+
+# vue-loader example
 
 [![Dependencies](https://img.shields.io/david/vuejs/vue-loader-example.svg?style=flat-square)](https://david-dm.org/vuejs/vue-loader-example)
 [![Dev Dependencies](https://img.shields.io/david/dev/vuejs/vue-loader-example.svg?style=flat-square)](https://david-dm.org/vuejs/vue-loader-example#info=devDependencies)
